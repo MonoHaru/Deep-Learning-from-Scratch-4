@@ -1,14 +1,6 @@
-# Deep Learning From Scratch 4
-본 저장소는 Deep Learning From Scratch 4를 기반으로 강화학습을 공부하기 위해서 만들어졌다.
-기본적으로 본 책에 작성된 코드 위주로 구성되었으며, 추가적으로 각 챕터에 대한 요약본을 각 폴더의 README.md에 작성하였다.
+<p align="center">
+  <img src="assets/book_cover.jpg" width="500" />
+</p>
 
-
-# Summary
-| Chapter | Notion | Python |
-|---------|--------|--------|
-| 1장 밴디트 문제 | [![Open In Notion](https://img.shields.io/badge/Open%20in-Notion-000000?logo=notion)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4) | [![Python](https://img.shields.io/badge/Open%20in-Python-3776AB?&logo=python&logoColor=ffdd54)](https://github.com/MonoHaru/deep-learning-from-scratch-4/tree/main/ch01)
-| 4장 동적 프로그래밍 | [![Open In Notion](https://img.shields.io/badge/Open%20in-Notion-000000?logo=notion)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4) | [![Python](https://img.shields.io/badge/Open%20in-Python-3776AB?&logo=python&logoColor=ffdd54)](https://github.com/MonoHaru/deep-learning-from-scratch-4/tree/main/ch04)
-| 5장 몬테카를로법 | [![Open In Notion](https://img.shields.io/badge/Open%20in-Notion-000000?logo=notion)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4) | [![Python](https://img.shields.io/badge/Open%20in-Python-3776AB?&logo=python&logoColor=ffdd54)](https://github.com/MonoHaru/deep-learning-from-scratch-4/tree/main/ch05)
-
-[4장] -> 아직 노션 수정 안 됌
-[5장] -> 아직 노션 수정 안 됌됌
+# 📖 밑바닥부터 시작하는 딥러닝 5
+본 레포지토리는 『밑바닥부터 시작하는 딥러닝 4』를 공부하기 위해 제작되었다. 『밑바닥부터 시작하는 딥러닝 4』는 강화 학습을 다루는 책으로 강화 학습의 기초부터 심층 강화 학습 알고리즘까지 폭넓은 내용을 담고 있다. 본 레포지토리는 도서에서 제공하는 예제 코드를 정리해 두었으며, 각 내용을 함축적으로 정리한 개인 학습 메모도 함께 포함되어 있다.
